@@ -1,1 +1,1 @@
-# principle-app
+# principal-app
